@@ -1,0 +1,16 @@
+### Steps to create and run engineering_team project ###
+# 1. Create the projecdt with : crewai create crew engineering_team
+# 2. Fill in the config yaml files to define the Agents and Tasks
+# 3. Complete the crew.py module to create the Agents, Tasks and Crew, referencing the config
+# 4. Update main.py to set any config and run
+# 5. Import SerperDevTool in crew.py file and use in researcher agent
+# 6. Install Docker Desktop app before runing the crew because of the agents excute code in the docker enviroment
+# 6. Run with: crewai run
+
+### Run app.py in output directory : After crewai run, the crew will generate the output directory 
+# app.py --> There is a fronted_agent create this file and we can use uv run gradio to run this app
+# 1. cd to output directory
+# 2. In the terminal --> uv run app.py : Got error because there is no gradio
+# 3. In the terminal --> uv add gradio : To install gradio to the project
+# 4. In the terminal --> uv run app.py : Rerun the app again after install the gradio library
+# 5. In the terminal --> it should display the url for gradio app that create by engineering_team

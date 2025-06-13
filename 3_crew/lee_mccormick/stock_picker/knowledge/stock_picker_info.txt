@@ -1,0 +1,18 @@
+### Steps to create and run stock_picker project ###
+# 1. Create the projecdt with : crewai create crew stock_picker
+# 2. Fill in the config yaml files to define the Agents and Tasks
+# 3. Complete the crew.py module to create the Agents, Tasks and Crew, referencing the config
+# 4. Update main.py to set any config and run
+# 5. Import SerperDevTool in crew.py file and use in researcher agent
+# 6. Modifier /scr/tools by update the file to push_tool.py and add push notification function in this file
+# 7. Import PushNotificationTool from push_tool.py in crew.py file and use in stock_picker agent
+# 9. Using crewai.memory in crew.py file by init the memories and use in in crew function. 
+# 8. Run with: crewai run
+
+### Memory in Crewai --> How It Works ###
+# https://docs.crewai.com/concepts/memory
+# Short-Term Memory: Uses ChromaDB with RAG for current context
+# Long-Term Memory: Uses SQLite3 to store task results across sessions
+# Entity Memory: Uses RAG to track entities (people, places, concepts)
+# Storage Location: Platform-specific location via appdirs package
+# Custom Storage Directory: Set CREWAI_STORAGE_DIR environment variable

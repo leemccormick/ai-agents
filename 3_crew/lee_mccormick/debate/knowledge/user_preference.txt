@@ -1,0 +1,12 @@
+#Example boiler code about the user
+User name is John Doe.
+User is an AI Engineer.
+User is interested in AI Agents.
+User is based in San Francisco, California.
+
+### 5 Steps to create and run debate crew ai project
+# 1. Create the projecdt with : crewai create crew my_project
+# 2. Fill in the config yaml files to define the Agents and Tasks
+# 3. Complete the crew.py module to create the Agents, Tasks and Crew, referencing the config
+# 4. Update main.py to set any config and run
+# 5. Run with: crewai run

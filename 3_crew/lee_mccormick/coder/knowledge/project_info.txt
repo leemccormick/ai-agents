@@ -1,0 +1,9 @@
+### Steps to create and run coder project ###
+# 1. Create the projecdt with : crewai create crew coder
+# 2. Fill in the config yaml files to define the Agents and Tasks
+# 3. Complete the crew.py module to create the Agents, Tasks and Crew, referencing the config
+# 4. Update main.py to set any config and run
+# 5. Import SerperDevTool in crew.py file and use in researcher agent
+# 6. Install Docker Desktop app before runing the crew because of the coder excute code in the docker enviroment
+# 6. Run with: crewai run
+

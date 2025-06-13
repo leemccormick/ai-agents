@@ -1,0 +1,7 @@
+### 6 Steps to create and run crew ai project and implement Serper Tool
+# 1. Create the projecdt with : crewai create crew my_project
+# 2. Fill in the config yaml files to define the Agents and Tasks
+# 3. Complete the crew.py module to create the Agents, Tasks and Crew, referencing the config
+# 4. Update main.py to set any config and run
+# 5. Import SerperDevTool in crew.py file and use in in researcher agent
+# 6. Run with: crewai run

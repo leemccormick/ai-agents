@@ -1,0 +1,21 @@
+```python
+def calculate_series(n):
+    total = 0.0
+    for i in range(n):
+        total += (-1) ** i / (2 * i + 1)
+    return total * 4
+
+result = calculate_series(10000)
+output = f'Final result of the series calculated with 10,000 terms is: {result}'
+
+# Writing the code and output to a text file
+with open('output.txt', 'w') as f:
+    f.write('Code:\n')
+    f.write('def calculate_series(n):\n    total = 0.0\n    for i in range(n):\n        total += (-1) ** i / (2 * i + 1)\n    return total * 4\n\nresult = calculate_series(10000)\n')
+    f.write('\nOutput:\n')
+    f.write(output)
+
+print(output)
+```
+
+This code calculates the first 10,000 terms of the series \( 1 - \frac{1}{3} + \frac{1}{5} - \frac{1}{7} + \ldots \), multiplies the result by 4, and writes both the code and the output into a text file named `output.txt`.
