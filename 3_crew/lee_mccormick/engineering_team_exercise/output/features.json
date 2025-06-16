@@ -1,0 +1,16 @@
+{
+  "features": [
+    {
+      "name": "order_management",
+      "description": "Enables staff to efficiently view, search, and manage a digital menu while adding items with quantity to a customer's cart, supporting the processing of orders."
+    },
+    {
+      "name": "billing_and_receipts",
+      "description": "Automatically calculates the order subtotal, applicable taxes, and the final total, allowing for discounts or promo codes, and generates digital or printable receipts."
+    },
+    {
+      "name": "inventory_tracking",
+      "description": "Tracks item availability to inform staff about stock levels, ensuring that menu items are appropriately marked as in-stock or out-of-stock."
+    }
+  ]
+}
