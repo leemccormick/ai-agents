@@ -1,24 +1,32 @@
-# Dinner Report: Le Bernardin
+# Lemongrass Asian Bistro
 
-## Restaurant Overview
-- **Name**: Le Bernardin
-- **Address**: 155 W 51st St, New York, NY 10019
-- **Phone**: (212) 554-1515
-- **Website**: [le-bernardin.com](http://le-bernardin.com)
+## Address
+1880 Congress Ave. Suite 190, Boynton Beach, FL 33426
 
-## Cuisine
-Le Bernardin specializes in refined seafood dishes, crafted with the utmost respect for the ingredients. The menu includes a variety of seafood preparations, with an emphasis on freshness and simplicity.
+## Phone Number
+(561) 861-1029
+
+## Overview
+Lemongrass Asian Bistro offers a blend of Thai and Japanese cuisine, showcasing an array of dishes made from fresh ingredients. The restaurant is noted for its welcoming atmosphere and attentive service, making it a popular choice for both casual diners and special occasions.
 
 ## Menu Highlights
-- **Tuna Tartare**: Diced raw tuna, served with toasted sesame and avocado.
-- **Wild Salmon**: Lightly cooked, served with a warm ginger-soy emulsion and bok choy.
-- **Poached Lobster**: Accompanied by truffle butter and a delicate sauce.
-- **Chocolate Soufflé**: A classic dessert, rich and airy.
+- **Appetizers:**
+  - Spring Rolls
+  - Thai Dumplings
+  - Avocado Rolls
 
-## Ambiance
-The atmosphere at Le Bernardin is elegant and serene, characterized by minimalist decor and a focus on the dining experience.
+- **Main Courses:**
+  - Bangkok Basil Beef
+  - Chicken Teriyaki
+  - Hong Kong Style Chilean Seabass
+  - Mongolian Beef
+  - Roasted Half Chicken
+  - Teriyaki Grilled Scottish Salmon
 
-## Summary of Reviews
-Le Bernardin has consistently received rave reviews for its exceptional cuisine and impeccable service. It is a three-Michelin star restaurant, recognized as one of the best seafood restaurants not only in New York but also in the world. Diners emphasize the harmonious flavors and the artistry of the dishes, making it a top choice for special occasions.
+- **Sushi Options:**
+  - Rainbow Roll
+  - Spicy Tuna Roll
+  - Dragon Roll
 
-**In conclusion**, Le Bernardin represents the pinnacle of fine dining, offering diners an unforgettable experience centered around seafood excellence.
+## Recent Reviews
+In the past month, reviewers have praised the freshness and quality of the food, highlighting specific dishes such as the Hong Kong Style Chilean Seabass and the various sushi options. Many patrons have commented on the excellent service and cozy ambiance, making note of the restaurant's commitment to customer satisfaction. Recent feedback emphasizes the restaurant's consistency in delivering delicious meals and a pleasant dining experience.
