@@ -1,8 +1,5 @@
 import gradio as gr
 from sidekick import Sidekick
-import asyncio
-from io import BytesIO
-from PIL import Image
 
 async def setup():
     sidekick = Sidekick()
