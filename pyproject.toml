@@ -32,6 +32,7 @@ dependencies = [
     "pypdf>=5.4.0",
     "pypdf2>=3.0.1",
     "python-dotenv>=1.0.1",
+    "python-pptx>=1.0.2",
     "requests>=2.32.3",
     "semantic-kernel>=1.25.0",
     "sendgrid>=6.11.0",
