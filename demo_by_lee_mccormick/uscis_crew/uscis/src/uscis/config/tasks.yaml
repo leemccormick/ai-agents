@@ -1,0 +1,20 @@
+fetch_civics_test_task:
+  description: >
+    A structured task to fetch and parse the official USCIS civics test for naturalization (2008 version):
+
+    1. Scrape the USCIS “Check for Test Updates” page:
+       • Extract `civic_test_version` (e.g., "2008 version")
+       • Extract `uscis_last_updated` date (e.g., "01/21/2025") :contentReference[oaicite:1]{index=1}
+    2. Access and extract content from the official USCIS PDF containing the 100 civics questions and answers.
+    3. From the PDF, extract using PDFReaderTool:
+       • `items`: List of CivicsTestItem objects — `{ number: int, question: str, answers: List[str] }`
+    4. Return a structured output matching the CivicTestOutput model.
+
+  expected_output: >
+    JSON file (`output/civics-test.json`) with:
+      - `civic_test_version`: string
+      - `uscis_last_updated`: string
+      - `items`: List[CivicTestItem]
+
+  agent: uscis_civics_test_content_specialist
+  output_file: output/civics-test.json

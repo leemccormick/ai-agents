@@ -1,0 +1,119 @@
+{
+  "research_points": [
+    {
+      "topic": "Agentic AI Adoption",
+      "findings": "25% of enterprises using GenAI are expected to deploy AI agents in 2025, growing to 50% by 2027.",
+      "relevance": "Indicates a rapidly growing trend in AI agent implementation across various industries.",
+      "sources": [
+        {
+          "title": "Midyear 2025 AI Reflection - Towards Data Science",
+          "link": "https://towardsdatascience.com/midyear-2025-ai-reflection/"
+        },
+        {
+          "title": "Autonomous generative AI agents: Under development - Deloitte",
+          "link": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2025/autonomous-generative-ai-agents-still-under-development.html"
+        }
+      ]
+    },
+    {
+      "topic": "AI Agent Market Growth",
+      "findings": "The global AI agent market is projected to grow from USD 5.1 billion in 2024 to USD 47.1 billion by 2030, with a CAGR of 44.8 percent.",
+      "relevance": "Highlights the significant financial investment and interest in AI agents, signaling future growth potential.",
+      "sources": [
+        {
+          "title": "Demystifying AI Agents in 2025: Separating Hype From Reality and ...",
+          "link": "https://www.alvarezandmarsal.com/thought-leadership/demystifying-ai-agents-in-2025-separating-hype-from-reality-and-navigating-market-outlook"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic AI in the Workforce",
+      "findings": "Agentic AI is changing the workforce, expanding the definition of a qualified workforce by introducing 'digital labor'.",
+      "relevance": "Shows the impact of AI agents on employment and the changing nature of jobs.",
+      "sources": [
+        {
+          "title": "Agentic AI Is Already Changing the Workforce",
+          "link": "https://hbr.org/2025/05/agentic-ai-is-already-changing-the-workforce"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic AI and Business Revolution",
+      "findings": "Agentic AI is becoming more widely used in decision-making, leading to cognitive enterprises that continuously learn, adapt, and improve.",
+      "relevance": "Indicates a shift towards AI-driven business models and processes.",
+      "sources": [
+        {
+          "title": "Agentic AI will revolutionize business in the cognitive era",
+          "link": "https://www.weforum.org/stories/2025/06/cognitive-enterprise-agentic-business-revolution/"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic AI Summit",
+      "findings": "The Agentic AI Summit will take place in 2025.",
+      "relevance": "Shows the increasing interest in AI agents, including events to discuss AI agents.",
+      "sources": [
+        {
+          "title": "Agentic AI Summit 2025 - Berkeley RDI",
+          "link": "https://rdi.berkeley.edu/events/agentic-ai-summit"
+        }
+      ]
+    },
+    {
+      "topic": "AWS AI Agent Innovation",
+      "findings": "AWS is investing heavily in Agentic AI through an Innovation Center.",
+      "relevance": "Highlights major tech companies' investment in AI agent development.",
+      "sources": [
+        {
+          "title": "AWS announces new innovations for building AI agents at AWS ...",
+          "link": "https://www.aboutamazon.com/news/aws/aws-summit-agentic-ai-innovations-2025"
+        }
+      ]
+    },
+    {
+      "topic": "Microsoft Build and AI Agents",
+      "findings": "Microsoft Build 2025 focuses on AI agents and building an open agentic web.",
+      "relevance": "Showcases the importance of AI agents in Microsoft's strategy",
+      "sources": [
+        {
+          "title": "Microsoft Build 2025: The age of AI agents and building the open ...",
+          "link": "https://blogs.microsoft.com/blog/2025/05/19/microsoft-build-2025-the-age-of-ai-agents-and-building-the-open-agentic-web/"
+        }
+      ]
+    },
+    {
+      "topic": "AI Agent Frameworks and Tools",
+      "findings": "The DataCamp blog explores the top AI agent solutions in 2025, from low-code tools to enterprise platforms.",
+      "relevance": "Indicates the availability of different tools and frameworks for developing AI agents.",
+      "sources": [
+        {
+          "title": "The Best AI Agents in 2025: Tools, Frameworks, and Platforms ...",
+          "link": "https://www.datacamp.com/blog/best-ai-agents"
+        }
+      ]
+    },
+    {
+      "topic": "AI Agent APIs and Integrations",
+      "findings": "Mistral launches Agents API and New Relic creates integration with GitHub Copilot's coding agent.",
+      "relevance": "Shows how AI agents are being integrated with different services and platforms.",
+      "sources": [
+        {
+          "title": "May 2025: All AI updates from the past month - SD Times",
+          "link": "https://sdtimes.com/ai/may-2025-all-ai-updates-from-the-past-month/"
+        }
+      ]
+    },
+    {
+      "topic": "Agentic AI Definition",
+      "findings": "Agentic AI is an autonomous AI system that plans, reasons, and acts to complete tasks with minimal oversight.",
+      "relevance": "Provides a crucial definition of the type of AI agent which is heavily discussed in 2025.",
+      "sources": [
+        {
+          "title": "What is agentic AI? (Definition and 2025 guide)",
+          "link": "https://www.uc.edu/news/articles/2025/06/what-is-agentic-ai-definition-and-2025-guide.html"
+        }
+      ]
+    }
+  ],
+  "summary": "In 2025, AI Agents are experiencing rapid growth in adoption, with increasing financial investment and new features and functions, especially Agentic AI. This is impacting the workforce, business processes, and technological innovation. AWS and Microsoft are investing in this area, and various tools, APIs, and frameworks are emerging to support the development and deployment of AI agents across diverse applications."
+}
